@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\bin\Debug\Sbor na 2 chisla.exe.config
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\bin\Debug\Sbor na 2 chisla.exe
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\bin\Debug\Sbor na 2 chisla.pdb
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\obj\Debug\Sbor na 2 chisla.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\obj\Debug\Sbor na 2 chisla.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\obj\Debug\Sbor na 2 chisla.exe
+c:\users\student\source\repos\Dani\Sbor na 2 chisla\Sbor na 2 chisla\obj\Debug\Sbor na 2 chisla.pdb
